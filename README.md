@@ -1,3 +1,5 @@
+# This fork contains a fix for this issue: sstephenson/ruby-build#690
+
 # <a name="title"></a> ruby-build Chef Cookbook
 
 [![Build Status](https://secure.travis-ci.org/fnichol/chef-ruby_build.png?branch=master)](http://travis-ci.org/fnichol/chef-ruby_build)
